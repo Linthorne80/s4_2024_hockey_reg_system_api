@@ -1,4 +1,4 @@
-package com.keyin.domain;
+package com.keyin.rest.division;
 
 import jakarta.persistence.*;
 

@@ -1,5 +1,7 @@
-package com.keyin.domain;
+package com.keyin.rest.team;
 
+import com.keyin.rest.division.Division;
+import com.keyin.rest.player.Player;
 import jakarta.persistence.*;
 
 import java.util.List;

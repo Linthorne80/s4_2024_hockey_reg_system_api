@@ -1,6 +1,5 @@
-package com.keyin.rest;
+package com.keyin.rest.division;
 
-import com.keyin.domain.Division;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
